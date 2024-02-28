@@ -1,0 +1,13 @@
+header{
+    height: 20vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: beige;
+    color: rgb(235, 112, 133);
+}
+
+p{
+    font-size: 2.5rem;
+    font-weight: 800;
+}
